@@ -1,7 +1,3 @@
-Certainly! Here's an in-depth README to guide users through the details of your machine learning project on US Weather and Housing Prices.
-
----
-
 # US Weather & Housing Prices Predictive Modeling
 
 ## Overview:
