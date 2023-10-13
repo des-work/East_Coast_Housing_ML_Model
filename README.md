@@ -1,4 +1,4 @@
-# US Weather & Housing Prices Predictive Modeling
+# US East Coast Weather & Housing Prices Predictive Modeling
 
 ## Overview:
 
