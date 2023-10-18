@@ -46,16 +46,16 @@ The Real Estate Analysis project aims to investigate the relationship between re
 
 ### 7. Model Results:
 
-#### Linear Regression
+ Linear Regression
 - Cross-Validated R Squared Error: -0.09838708376026908
 
-#### Decision Tree Regressor
+Decision Tree Regressor
 - Cross-Validated R Squared Error: -0.9543269180905426
 
-#### Random Forest Regressor
+ Random Forest Regressor
 - Cross-Validated R Squared Error: -0.9650023979091239
 
-#### Gradient Boosting Regressor
+ Gradient Boosting Regressor
 - Cross-Validated R Squared Error: -0.706194625056925
 
 **Best Model: Random Forest Regressor**
