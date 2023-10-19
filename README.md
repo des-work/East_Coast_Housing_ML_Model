@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-The Real Estate Analysis project aims to investigate the relationship between real estate metrics and weather data. The project includes loading and analyzing housing data, preprocessing, exploratory data analysis, and building regression models.
+The Real Estate Analysis project aims to investigate the relationship between real estate metrics and housing prices. The project includes loading and analyzing housing data, preprocessing, exploratory data analysis, building and optimizing regression models.
 
 ## Key Changes and Enhancements
 
